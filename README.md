@@ -12,8 +12,6 @@ chrome://extensions/
 ```
 4. Enable developer mode and press "Load unpacked" button.
 
-![alt text](https://developer-chrome-com.imgix.net/image/BrQidfK9jaQyIHwdw91aVpkPiib2/iYdLKFsJ1KSVGLhbLRvS.png?auto=format)
-
 5. Select the folder you previously downloaded.
 
 # Use
